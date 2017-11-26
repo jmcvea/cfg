@@ -9,6 +9,7 @@ dotfiles required for configuring a machine
 ## Install
 
 Install config tracking in your $HOME by running:
-
-  curl -Lks bit.do/config-install | /bin/bash
+```sh
+  curl -Lks bit.do/config-install | /bin/bash  
   curl -Lks https://bitbucket.org/durdn/cfg/raw/master/.bin/install.sh | /bin/bash
+```
